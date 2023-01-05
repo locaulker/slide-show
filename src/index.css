@@ -56,7 +56,7 @@ Global Styles
   box-sizing: border-box;
 }
 body {
-  font-family: Roboto, sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
   background: var(--clr-grey-10);
   color: var(--clr-grey-1);
   line-height: 1.5;
